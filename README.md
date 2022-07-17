@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cloudflying Chouhan</h1>
+<h1 align="center">Hi 👋, I'm Cloudflying</h1>
 <h3 align="center">`Ctrl-C/Ctrl-C` Engineer</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imxieke&&show_icons=true&theme=github" />
