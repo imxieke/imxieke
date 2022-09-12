@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning Vue Go
 - 🤔 I’m looking for help with job
-- 💬 PM From TG
-- 📫 How to reach me: find in the world
 
 <img src="https://github-readme-stats.vercel.app/api?username=imxieke&&show_icons=true&theme=github" />
 
