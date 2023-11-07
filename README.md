@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cloudflying</h1>
-<h3 align="center">`Ctrl-C/Ctrl-C` Engineer</h3>
+<h3 align="center">`Ctrl-C/Ctrl-V` Engineer</h3>
 
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning Vue Go
@@ -7,12 +7,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=imxieke&&show_icons=true&theme=github" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imxieke&theme=buefy&hide_border=true)](#)
-
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imxieke&layout=compact)](#)
 
-<h1 align="center">🉑 In Use or Interested</h1>
+<h1 align="center">🉑 Currently in use or interested</h1>
 
 Code Editor:
   <p>
