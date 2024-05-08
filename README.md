@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cloudflying</h1>
 <h3 align="center">`Ctrl-C/Ctrl-V` Engineer</h3>
 
-- 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Vue Go
-- 🤔 I’m looking for help with job
+- 🔭 Coding
+- 🌱 learning Vue Go
+- 🤔 PHPer
 
 <img src="https://github-readme-stats.vercel.app/api?username=imxieke&&show_icons=true&theme=github" />
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imxieke&layout=compact)](#)
 
-<h1 align="center">🉑 Currently in use or interested</h1>
+<h1 align="center">Tech Stack</h1>
 
 Code Editor:
   <p>
@@ -108,7 +108,6 @@ Others Technology:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/gravatar/gravatar-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code> -->
-<code><img height="40" src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/icann/icann-ar21.svg"></code>
 </p>
